@@ -22,3 +22,5 @@ Deben crear una página web que contenga tres artículos relacionados con el tem
 ## Evaluación
 
 Acá deben incluir una breve descripción y quienes trabajaron.
+
+Integrantes: Serrano Juan Cruz, Vicente Martin
